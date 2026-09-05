@@ -51,5 +51,5 @@
 ---
 
 ## 📚 Полезные ссылки и официальная документация
-* 📘 [Unittest.mock — Getting Started]([https://docs.python.org/3/library/unittest.mock.html]) — официальные примеры использования `patch` и `Mock` для подмены ввода-вывода и сетевых запросов.
-* 📕 [Sqlite3 Module в Python]([https://docs.python.org/3/library/sqlite3.html])) — руководство по созданию легковесной базы данных в памяти или в файле, что идеально подходит для выполнения этой лабораторной работы.
+* 📘 [Unittest.mock — Getting Started](https://docs.python.org/3/library/unittest.mock.html) — официальные примеры использования `patch` и `Mock` для подмены ввода-вывода и сетевых запросов.
+* 📕 [Sqlite3 Module в Python](https://docs.python.org/3/library/sqlite3.html) — руководство по созданию легковесной базы данных в памяти или в файле, что идеально подходит для выполнения этой лабораторной работы.
